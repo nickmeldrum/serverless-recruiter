@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Nick Meldrum <nick@nickmeldrum.com>",
-  "license": "MIT"
+  "license": "ISC"
 }
